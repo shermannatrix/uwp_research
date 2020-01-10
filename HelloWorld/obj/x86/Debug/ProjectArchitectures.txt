@@ -1,0 +1,1 @@
+D:\Research_and_Development\uwp_research\HelloWorld\HelloWorld.csproj;x86
